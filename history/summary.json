@@ -40,9 +40,9 @@
     "url": "https://www.puce.edu.ec/",
     "icon": "https://icons.duckduckgo.com/ip3/www.puce.edu.ec.ico",
     "slug": "puce-link",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 4328,
     "timeMonth": 4328,
     "timeYear": 4328,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-08": 0
+    }
   },
   {
     "name": "Test Broken Site",
