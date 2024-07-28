@@ -40,7 +40,7 @@
     "url": "https://www.puce.edu.ec/",
     "icon": "https://icons.duckduckgo.com/ip3/www.puce.edu.ec.ico",
     "slug": "puce-link",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -52,6 +52,7 @@
     "timeMonth": 4461,
     "timeYear": 4461,
     "dailyMinutesDown": {
+      "2024-07-28": 0,
       "2024-07-11": 50
     }
   },
